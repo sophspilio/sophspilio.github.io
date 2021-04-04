@@ -1,22 +1,12 @@
 body {
     margin: 60px auto;
     width: 70%;
-    font-family:'Georgia', 'Arial', 'Serif';
-}
-h1 {
-    color: #FF9A5B;
-     font-family: 'Garamond', 'Times New Roman', 'Serif';
-}
-h2 {
-    color: #687BBE;
-     font-family: 'Garamond', 'Times New Roman', 'Serif';
 }
 nav ul, footer ul {
-    font-family:'Verdana', 'Arial', 'Sans-Serif';
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    color: #999;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -30,10 +20,16 @@ a:hover {
     color: #D7E7DC;
     background-color: #576675;
 }
+h1 {
+    font-size: 3em;
+    font-family: 'Garamond', 'Times New Roman', 'Serif';
+    color: #FF9A5B;
+}
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
+    font-family: 'Georgia', 'Arial', 'Serif'; 
 }
 footer {
     border-top: 1px solid #d5d5d5;
