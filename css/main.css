@@ -22,12 +22,12 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family: 'Montserrat';
+    font-family: 'Garamond', 'Times New Roman', 'Serif';
     color: #FF9A5B;
 }
 h2 {
     font-size: 2em;
-    font-family: 'Montserrat';
+    font-family: 'Garamond', 'Times New Roman', 'Serif';
     color: #800080;
 }
 p {
