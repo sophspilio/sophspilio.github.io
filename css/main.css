@@ -22,19 +22,19 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family: 'Lato Heavy', 'Arial', 'Sans-Serif';
+    font-family: 'Montserrat';
     color: #FF9A5B;
 }
 h2 {
     font-size: 2em;
-    font-family: 'Lato Heavy', 'Arial', 'Sans-Serif';
+    font-family: 'Montserrat';
     color: #800080;
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
-    font-family: 'Merriweather', 'Helvetica', 'Serif'; 
+    font-family: 'Cardo'; 
 }
 footer {
     border-top: 1px solid #d5d5d5;
