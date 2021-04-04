@@ -20,10 +20,15 @@ a:hover {
     color: #D7E7DC;
     background-color: #576675;
 }
-h2 {
+h1 {
     font-size: 3em;
     font-family: 'Josefins Sans', 'Arial', 'Sans-Serif';
     color: #FF9A5B;
+}
+h2 {
+    font-size: 2em;
+    font-family: 'Josefins Sans', 'Arial', 'Sans-Serif';
+    color: #800080;
 }
 p {
     font-size: 1.5em;
