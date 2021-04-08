@@ -1,18 +1,24 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Raleway&family=Roboto&display=swap');
+
+
 body {
     margin: 60px auto;
     width: 70%;
-    font-family:'Georgia', 'Arial', 'Serif';
+    background: #F0DDF4;
+    font-family:'Montserrat', sans-serif;
 }
 h1 {
     color: #FF9A5B;
-     font-family: 'Garamond', 'Times New Roman', 'Serif';
+     font-family: 'Roboto', sans-serif;
 }
 h2 {
     color: #687BBE;
-     font-family: 'Garamond', 'Times New Roman', 'Serif';
+     font-family: 'Raleway', sans-serif;
 }
 nav ul, footer ul {
-    font-family:'Verdana', 'Arial', 'Sans-Serif';
+    font-family:'Montserrat', sans-serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
