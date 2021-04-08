@@ -3,16 +3,17 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background: #F0DDF4;
     font-family:'Montserrat', sans-serif;
 }
 h1 {
     color: #FF9A5B;
-     font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    text-align: 'center';
 }
 h2 {
     color: #687BBE;
-     font-family: 'Raleway', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    text-align: 'center'
 }
 nav ul, footer ul {
     font-family:'Montserrat', sans-serif;
